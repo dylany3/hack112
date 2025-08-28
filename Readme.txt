@@ -38,4 +38,3 @@ ChatGPT (helped with setting up OpenCV video capture)
 https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker
 https://ai.google.dev/edge/api/mediapipe/js/tasks-vision.poselandmarker#poselandmarkerdetect
 https://colab.research.google.com/github/googlesamples/mediapipe/blob/main/examples/pose_landmarker/python/%5BMediaPipe_Python_Tasks%5D_Pose_Landmarker.ipynb#scrollTo=_JVO3rvPD4RN
-Some code from https://github.com/LouisSloot/Human-Pose-Estimation-and-Dance/blob/main/main.py (Louis Sloot's former work with OpenCV)
